@@ -1,0 +1,47 @@
+.background{
+  background-color: rgb(195, 205, 211);
+}
+
+.card1{
+  background-color: #49236b;
+  width: 20%;
+  padding: 20px;
+  font-family: 'Lato', sans-serif;
+  color: white;
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+}
+
+.card2{
+  background-color: #49236b;
+  width: 20%;
+  padding: 20px;
+  font-family: 'Lato', sans-serif;
+  color: white;
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+}
+
+.columnas{
+  display: flex;
+  justify-content: center;
+}
+
+.invisible{
+  display: none;
+}
+
+.size-input {
+  width: 99%;
+  margin: 14px 0px;
+}
+
+#boton {
+  background-color: yellow;
+  height: 40px;
+  width: 46%;
+}
